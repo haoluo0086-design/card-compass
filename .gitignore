@@ -1,0 +1,18 @@
+node_modules/
+dist/
+tmp/
+temp/
+.DS_Store
+.env
+.env.*
+!.env.example
+*.local
+*.log
+.playwright/
+playwright-report/
+test-results/
+.codex/
+.agents/
+
+# Local handoff contains machine-specific paths, never publish.
+PROGRESS.md

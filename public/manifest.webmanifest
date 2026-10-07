@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "刷哪张 · Card Compass",
+  "short_name": "刷哪张",
+  "description": "付款前快速比较你的信用卡回报、优惠与可用权益。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f5f4ef",
+  "theme_color": "#123b32",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

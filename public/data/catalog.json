@@ -1,0 +1,435 @@
+{
+  "verifiedAt": "2026-10-06",
+  "cards": [
+    {
+      "id": "sapphire",
+      "name": "Chase Sapphire Preferred",
+      "issuer": "Chase",
+      "shortName": "Sapphire Preferred",
+      "color": "#344d91",
+      "currency": "chase",
+      "annualFee": 95,
+      "foreignFee": 0,
+      "baseRate": 1,
+      "rates": [
+        {
+          "category": "dining",
+          "multiplier": 3
+        },
+        {
+          "category": "onlineGrocery",
+          "multiplier": 3
+        },
+        {
+          "category": "streaming",
+          "multiplier": 3
+        },
+        {
+          "category": "gas",
+          "multiplier": 3,
+          "starts": "2026-06-15"
+        },
+        {
+          "category": "travelDirect",
+          "multiplier": 2
+        },
+        {
+          "category": "transit",
+          "multiplier": 2
+        },
+        {
+          "category": "chaseTravel",
+          "multiplier": 5
+        },
+        {
+          "category": "capitaloneTravel",
+          "multiplier": 2
+        },
+        {
+          "category": "biltHotel",
+          "multiplier": 2
+        },
+        {
+          "category": "biltFlight",
+          "multiplier": 2
+        },
+        {
+          "category": "lyft",
+          "multiplier": 5,
+          "expires": "2027-09-30"
+        },
+        {
+          "category": "lyft",
+          "multiplier": 2
+        },
+        {
+          "category": "vacationRental",
+          "multiplier": 3,
+          "starts": "2026-06-15"
+        }
+      ],
+      "benefits": [
+        {
+          "title": "每周年 $100 酒店抵扣",
+          "description": "Chase Travel 酒店预订；按账户周年重置。获抵扣的前 $100 消费不赚积分。请在 Chase 确认余额，本应用未自动扣除或追踪此抵扣。",
+          "url": "https://www.chase.com/personal/credit-cards/offerdetails/chasesapphire#preferred"
+        },
+        {
+          "title": "指定度假屋 3 倍积分",
+          "description": "直接通过 Airbnb、Vrbo、Plum Guide、HomeAway、Homestay.com、Vacasa 消费适用。当前分类选择器未单列此类别。",
+          "url": "https://media.chase.com/news/Meet-the-New-Chase-Sapphire-Preferred"
+        },
+        {
+          "title": "每四年最高 $120 申请费抵扣",
+          "description": "Global Entry、TSA PreCheck 或 NEXUS，限符合条款的直接申请费；核对账户下一次可用日期。",
+          "url": "https://www.chase.com/personal/credit-cards/offerdetails/chasesapphire#preferred"
+        },
+        {
+          "title": "Apple TV 一年权益",
+          "description": "需通过 Chase 激活；已有直接付费订阅可能在免费期结束后恢复收费。",
+          "url": "https://www.chase.com/personal/credit-cards/offerdetails/chasesapphire#preferred",
+          "expires": "2026-12-31"
+        },
+        {
+          "title": "DashPass 与每月 $10 非餐厅优惠",
+          "description": "先激活，并以同一张卡直接结账；每月一次、仅商品小计、余额不滚存。详细条款激活期限为 2029-12-31，产品摘要仍列 2027，使用前核对账户。",
+          "url": "https://www.chase.com/personal/credit-cards/offerdetails/chasesapphire#preferred",
+          "expires": "2029-12-31"
+        },
+        {
+          "title": "Lyft 5 倍积分",
+          "description": "适用 Lyft 应用内指定产品；礼品卡、租车等不适用。到期后按普通交通消费计算。",
+          "url": "https://www.chase.com/personal/credit-cards/offerdetails/chasesapphire#preferred",
+          "expires": "2027-09-30"
+        },
+        {
+          "title": "Peloton 设备 5 倍积分",
+          "description": "美国直营设备／配件单笔超过 $150；活动总消费上限 $5,000，非年额度，服饰及礼品卡除外。当前计算器未自动计入。",
+          "url": "https://www.chase.com/personal/credit-cards/offerdetails/chasesapphire#preferred",
+          "expires": "2027-12-31"
+        },
+        {
+          "title": "旅行保障",
+          "description": "包含租车、旅行取消／中断、延误及紧急撤离等保障；请查当前保障手册。适用条件与保额未折算为回报。",
+          "url": "https://media.chase.com/news/Meet-the-New-Chase-Sapphire-Preferred"
+        },
+        {
+          "title": "2026 年规则变更",
+          "description": "新消费不再计入旧周年 10% 加成；World of Hyatt 转点比例已为 4:3。积分估值可自行调整。",
+          "url": "https://media.chase.com/news/Meet-the-New-Chase-Sapphire-Preferred"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.chase.com/sapphirepreferred/rewardsagreement",
+        "https://www.chase.com/personal/credit-cards/offerdetails/chasesapphire#preferred",
+        "https://media.chase.com/news/Meet-the-New-Chase-Sapphire-Preferred"
+      ]
+    },
+    {
+      "id": "freedom",
+      "name": "Chase Freedom Unlimited",
+      "issuer": "Chase",
+      "shortName": "Freedom Unlimited",
+      "color": "#6489bd",
+      "currency": "chase",
+      "annualFee": 0,
+      "foreignFee": 3,
+      "baseRate": 1.5,
+      "rates": [
+        {
+          "category": "dining",
+          "multiplier": 3
+        },
+        {
+          "category": "drugstore",
+          "multiplier": 3
+        },
+        {
+          "category": "chaseTravel",
+          "multiplier": 5
+        },
+        {
+          "category": "lyft",
+          "multiplier": 2,
+          "expires": "2027-09-30"
+        }
+      ],
+      "benefits": [
+        {
+          "title": "现金回馈也属于 Chase 积分",
+          "description": "1.5%／3%／5% 对应每美元 1.5／3／5 点 Ultimate Rewards，可与符合条件的其他 Chase 卡合并。此卡没有季度轮换 5% 类别。",
+          "url": "https://www.chase.com/freedomunlimited/rewardsagreement"
+        },
+        {
+          "title": "境外交易费 3%",
+          "description": "包含符合银行定义的境外交易。勾选境外消费后，计算器会从预计收益扣除。",
+          "url": "https://sites.chase.com/services/creatives/pricingandterms.html/content/dam/pricingandterms/LGC61498.html"
+        },
+        {
+          "title": "DashPass 六个月与季度优惠",
+          "description": "激活后六个月免费，随后按当时月费自动续订；符合资格的会员每季度可用一次最高 $10 非餐厅订单优惠。请核对激活与使用状态。",
+          "url": "https://creditcards.chase.com/cash-back-credit-cards/freedom/unlimited",
+          "expires": "2027-12-31"
+        },
+        {
+          "title": "Lyft 2 倍积分",
+          "description": "活动结束后恢复普通 1.5 倍，不使用旧版 5 倍活动。",
+          "url": "https://creditcards.chase.com/cash-back-credit-cards/freedom/unlimited",
+          "expires": "2027-09-30"
+        },
+        {
+          "title": "购物与旅行保障",
+          "description": "产品页提供购物及部分旅行取消／中断保障；使用前查看自己账户的保障手册，不按现金优惠估值。",
+          "url": "https://creditcards.chase.com/cash-back-credit-cards/freedom/unlimited"
+        }
+      ],
+      "sourceUrls": [
+        "https://creditcards.chase.com/cash-back-credit-cards/freedom/unlimited",
+        "https://www.chase.com/freedomunlimited/rewardsagreement",
+        "https://sites.chase.com/services/creatives/pricingandterms.html/content/dam/pricingandterms/LGC61498.html"
+      ]
+    },
+    {
+      "id": "obsidian",
+      "name": "Bilt Obsidian",
+      "issuer": "Bilt / Column",
+      "shortName": "Bilt Obsidian",
+      "color": "#41444a",
+      "currency": "bilt",
+      "annualFee": 95,
+      "foreignFee": 0,
+      "baseRate": 1,
+      "rates": [
+        {
+          "category": "dining",
+          "multiplier": 3
+        },
+        {
+          "category": "grocery",
+          "multiplier": 1
+        },
+        {
+          "category": "onlineGrocery",
+          "multiplier": 1
+        },
+        {
+          "category": "travelDirect",
+          "multiplier": 2
+        },
+        {
+          "category": "biltHotel",
+          "multiplier": 2
+        },
+        {
+          "category": "biltFlight",
+          "multiplier": 2
+        }
+      ],
+      "benefits": [
+        {
+          "title": "餐饮或超市二选一",
+          "description": "默认餐饮 3 倍。选择超市后，超市全年前 $25,000 为 3 倍，另一类别及超额部分 1 倍；须在设置填写自己的选择与已消费金额。",
+          "url": "https://www.bilt.com/terms/bilt-card-offer-terms"
+        },
+        {
+          "title": "每半年 $50 酒店抵扣",
+          "description": "每年 1–6 月及 7–12 月各 $50；Bilt Travel 连住至少两晚、用 Obsidian 付款并打开抵扣选项。抵扣后净额赚积分，余额须在 Bilt 查询。",
+          "url": "https://www.bilt.com/terms/bilt-card-offer-terms"
+        },
+        {
+          "title": "两种奖励模式",
+          "description": "住房积分模式按账期日常消费／住房付款比率定档，无额外 4% Bilt Cash；灵活模式提供受限 Bilt Cash，可用来兑换住房积分或指定权益。请确认实际模式。",
+          "url": "https://www.bilt.com/terms/bilt-card-offer-terms"
+        },
+        {
+          "title": "Bilt Cash 不是现金返现",
+          "description": "不可提现，有用途及兑换上限；年底到期，最多 $100 结转。默认按零可用价值计算，若调整估值，不要再把兑换结果重复相加。",
+          "url": "https://www.biltrewards.com/terms/bilt-cash"
+        },
+        {
+          "title": "每月 1 日双倍积分",
+          "description": "每月额外积分最多 1,000 点，活动含 2027-01-01；按美国东部开始、太平洋结束的窗口，交易方式及商户报送须合规。确认后才开启计算，不能叠加 Points Accelerator。",
+          "url": "https://www.biltrewards.com/terms/bilt-card-double-points",
+          "expires": "2027-01-01"
+        },
+        {
+          "title": "Bilt Travel 与关联商户",
+          "description": "Bilt 平台酒店 4 倍、机票 3 倍已纳入。Lyft 绑定并设为有效忠诚计划后可额外赚会员积分；未确认绑定时计算器仅按卡片本身 1 倍。餐厅伙伴另查应用。",
+          "url": "https://www.bilt.com/card/obsidian"
+        },
+        {
+          "title": "积分加速另行核算",
+          "description": "Points Accelerator 需花 $200 Bilt Cash，须选灵活模式，限后续 $5,000 消费或年底前。当前计算器未自动加入该加成。",
+          "url": "https://www.biltrewards.com/terms/bilt-cash"
+        },
+        {
+          "title": "手机与旅行保障",
+          "description": "产品页列有手机及部分旅行保障；需查当前保障手册。保险价值未计入推荐。",
+          "url": "https://www.bilt.com/card/obsidian"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.bilt.com/terms/bilt-card-offer-terms",
+        "https://www.bilt.com/card/obsidian",
+        "https://www.biltrewards.com/terms/bilt-cash",
+        "https://www.biltrewards.com/terms/bilt-card-double-points"
+      ]
+    },
+    {
+      "id": "ventureone",
+      "name": "Capital One VentureOne",
+      "issuer": "Capital One",
+      "shortName": "VentureOne",
+      "color": "#285978",
+      "currency": "capitalone",
+      "annualFee": 0,
+      "foreignFee": 0,
+      "baseRate": 1.25,
+      "rates": [
+        {
+          "category": "capitaloneTravel",
+          "multiplier": 5
+        }
+      ],
+      "benefits": [
+        {
+          "title": "普通消费 1.25 倍里程",
+          "description": "Capital One Travel 的酒店、度假屋及租车为 5 倍；机票不属于这项 5 倍范围。",
+          "url": "https://www.capitalone.com/credit-cards/ventureone/"
+        },
+        {
+          "title": "旅行抵扣兑换",
+          "description": "里程可用于符合条件的旅行消费抵扣；须在消费入账后 90 天内申请。个人估值不代表所有兑换方式价值相同。",
+          "url": "https://www.capitalone.com/credit-cards/ventureone/"
+        },
+        {
+          "title": "零年费与零境外交易费",
+          "description": "普通消费里程无上限；账户有效期间奖励不失效。",
+          "url": "https://www.capitalone.com/credit-cards/ventureone/"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.capitalone.com/credit-cards/ventureone/"
+      ]
+    },
+    {
+      "id": "savor",
+      "name": "Capital One Savor",
+      "issuer": "Capital One",
+      "shortName": "Savor",
+      "color": "#b8794c",
+      "currency": "cash",
+      "annualFee": 0,
+      "foreignFee": 0,
+      "baseRate": 1,
+      "rates": [
+        {
+          "category": "dining",
+          "multiplier": 3
+        },
+        {
+          "category": "grocery",
+          "multiplier": 3
+        },
+        {
+          "category": "onlineGrocery",
+          "multiplier": 3
+        },
+        {
+          "category": "entertainment",
+          "multiplier": 3
+        },
+        {
+          "category": "streaming",
+          "multiplier": 3
+        },
+        {
+          "category": "capitaloneTravel",
+          "multiplier": 5
+        }
+      ],
+      "benefits": [
+        {
+          "title": "餐饮、超市、娱乐、指定流媒体 3%",
+          "description": "超市排除 Walmart、Target 等大卖场；娱乐及流媒体按银行定义，非所有活动或订阅都符合。最终看商户类别。",
+          "url": "https://www.capitalone.com/credit-cards/savor/"
+        },
+        {
+          "title": "Capital One Travel 5%",
+          "description": "只限该平台的酒店、度假屋及租车；普通机票不属于此范围。",
+          "url": "https://www.capitalone.com/credit-cards/savor/"
+        },
+        {
+          "title": "使用现行零年费版本",
+          "description": "本目录采用当前 Savor：零年费、零境外交易费、其他消费 1%。旧版 Savor 可能有不同条款，使用前对照账户。",
+          "url": "https://www.capitalone.com/credit-cards/savor/"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.capitalone.com/credit-cards/savor/"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "chase-sapphire-rewards",
+      "title": "Chase Sapphire Preferred 积分规则",
+      "url": "https://www.chase.com/sapphirepreferred/rewardsagreement"
+    },
+    {
+      "id": "chase-sapphire-update",
+      "title": "Chase 2026 年权益更新",
+      "url": "https://media.chase.com/news/Meet-the-New-Chase-Sapphire-Preferred"
+    },
+    {
+      "id": "chase-sapphire-benefits",
+      "title": "Chase Sapphire 详细权益条款",
+      "url": "https://www.chase.com/personal/credit-cards/offerdetails/chasesapphire#preferred"
+    },
+    {
+      "id": "chase-freedom",
+      "title": "Chase Freedom Unlimited 产品权益",
+      "url": "https://creditcards.chase.com/cash-back-credit-cards/freedom/unlimited"
+    },
+    {
+      "id": "chase-freedom-rewards",
+      "title": "Chase Freedom Unlimited 积分规则",
+      "url": "https://www.chase.com/freedomunlimited/rewardsagreement"
+    },
+    {
+      "id": "chase-freedom-pricing",
+      "title": "Chase Freedom Unlimited 费用条款",
+      "url": "https://sites.chase.com/services/creatives/pricingandterms.html/content/dam/pricingandterms/LGC61498.html"
+    },
+    {
+      "id": "bilt-terms",
+      "title": "Bilt 信用卡条款（2026-08-28 更新）",
+      "url": "https://www.bilt.com/terms/bilt-card-offer-terms"
+    },
+    {
+      "id": "bilt-obsidian",
+      "title": "Bilt Obsidian 产品权益",
+      "url": "https://www.bilt.com/card/obsidian"
+    },
+    {
+      "id": "bilt-cash",
+      "title": "Bilt Cash 使用条款",
+      "url": "https://www.biltrewards.com/terms/bilt-cash"
+    },
+    {
+      "id": "bilt-double",
+      "title": "Bilt 每月首日双倍积分条款",
+      "url": "https://www.biltrewards.com/terms/bilt-card-double-points"
+    },
+    {
+      "id": "ventureone",
+      "title": "Capital One VentureOne 官方权益",
+      "url": "https://www.capitalone.com/credit-cards/ventureone/"
+    },
+    {
+      "id": "savor",
+      "title": "Capital One Savor 官方权益",
+      "url": "https://www.capitalone.com/credit-cards/savor/"
+    }
+  ]
+}
